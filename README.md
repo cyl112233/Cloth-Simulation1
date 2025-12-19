@@ -29,4 +29,7 @@ To install the dependencies, run:
 
 ```bash
 pip install -r requirements.txt
+Here is a sample simulation result
+<img width="1200" height="481" alt="fig11" src="https://github.com/user-attachments/assets/2d36ed17-4584-4504-a0f6-94304a4f86e6" />
+
 
