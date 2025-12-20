@@ -34,4 +34,6 @@ pip install -r requirements.txt
 
 <img width="344" height="193" alt="fig8" src="https://github.com/user-attachments/assets/8246d245-0bac-4dfa-b588-957fdecad105" />
 
+<h2>Simulation Results</h2>
 
+<img src="images/fig16.png" width="600"/>
