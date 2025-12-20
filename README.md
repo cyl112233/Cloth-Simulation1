@@ -30,6 +30,8 @@ To install the dependencies, run:
 ```bash
 pip install -r requirements.txt
 
+<img width="862" height="794" alt="fig16" src="https://github.com/user-attachments/assets/7841abee-9085-4c97-880c-79fb0be7cddd" />
 
+<img width="344" height="193" alt="fig8" src="https://github.com/user-attachments/assets/8246d245-0bac-4dfa-b588-957fdecad105" />
 
 
