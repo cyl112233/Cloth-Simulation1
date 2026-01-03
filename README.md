@@ -23,14 +23,14 @@ This repository provides an implementation of a **dual-driven physics-informed n
 
 ---
 
-## Installation
+
 
 To install the dependencies, run:
 
 ```bash
 pip install -r requirements.txt
 
-## Simulation Results
+### Simulation Results
 
 ![fig11](results/fig11.png)
 
