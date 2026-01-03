@@ -36,20 +36,18 @@ python main.py
 
 
 ## training epochs
-**Stretch parameter prediction and error variation (left), shear parameter prediction and error variation (center), bend parameter prediction and error variation (right).**
+**(1) Stretch parameter prediction and error variation (left), shear parameter prediction and error variation (center), bend parameter prediction and error variation (right).**
 ![fig10](results/fig10.png)
 
 
 ## Simulation Results
-**Results of ablation experiment.**
+**(2) Results of ablation experiment.**
 ![fig11](results/fig11.png)
 
 
-
-**Detail comparison of ribbed fabric simulation results using Physics-Based, MGN, and DPPINN methods from left to right.**
+**(3) Detail comparison of ribbed fabric simulation results using Physics-Based, MGN, and DPPINN methods from left to right.**
 ![fig14](results/fig14.png)
 
 
-
-**From left to right are the comparison results of clothing simulation details using the physical method, the MGN method, and the DP-PINN model.**
+**(4) From left to right are the comparison results of clothing simulation details using the physical method, the MGN method, and the DP-PINN model.**
 ![fig17](results/fig17.png)
