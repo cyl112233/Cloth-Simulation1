@@ -25,7 +25,7 @@ This repository provides an implementation of a **dual-driven physics-informed n
 
 ## training epochs
 **Stretch parameter prediction and error variation (left), shear parameter prediction and error variation (center), bend parameter prediction and error variation (right).**
-![fig9](results/fig9.png)
+![fig10](results/fig10.png)
 
 
 ## Simulation Results
