@@ -35,4 +35,8 @@ Simulation Results
 
 <img width="344" height="193" alt="fig8" src="https://github.com/user-attachments/assets/8246d245-0bac-4dfa-b588-957fdecad105" />
 
+
+git add results/fig11.png
+git commit -m "add image"
+git push
 ![img](results/fig11.png)
