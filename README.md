@@ -35,3 +35,4 @@ Simulation Results
 
 <img width="344" height="193" alt="fig8" src="https://github.com/user-attachments/assets/8246d245-0bac-4dfa-b588-957fdecad105" />
 
+![img](result/fig1.png)
