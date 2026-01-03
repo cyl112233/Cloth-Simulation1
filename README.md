@@ -24,8 +24,10 @@ This repository provides an implementation of a **dual-driven physics-informed n
 ---
 
 ## Simulation Results
-
+**Results of ablation experiment.**
 ![fig11](results/fig11.png)
+
+**Detail comparison of ribbed fabric simulation results using Physics-Based, MGN, and DPPINN methods from left to right.**
 ![fig14](results/fig14.png)
 
 
