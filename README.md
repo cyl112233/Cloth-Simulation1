@@ -52,7 +52,7 @@ python main.py
 
 ### Ablation Results under Different Loss Settings
 
-| Model            | Avg. Positional Error (%) ↓ | Energy Conservation (%) ↑ | Material Parameter Error (%) ↓ |
+| Model            | Avg. ositional Error (%) ↓ | Energy Conservation (%) ↑ | Material Parameter Error (%) ↓ |
 |------------------|-----------------------------|----------------------------|--------------------------------|
 | PINN (baseline)  | 4.72 ± 0.63                  | 68.2                       | 0.035                          |
 | +Constitutive    | 3.55 ± 0.41                  | 79.5                       | 0.045                          |
