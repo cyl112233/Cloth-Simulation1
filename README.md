@@ -1,4 +1,4 @@
-# Cloth-Simulation1
+# Cloth-Simulation
 # Physics-Informed Neural Networks for High-Fidelity Dynamic Cloth Simulation: Parameter Estimation and Differentiable Simulation
 
 ## Overview
