@@ -44,13 +44,12 @@ python main.py
 **Results of ablation experiment.**
 ![fig11](results/fig11.png)
 
+
+
 **Detail comparison of ribbed fabric simulation results using Physics-Based, MGN, and DPPINN methods from left to right.**
 ![fig14](results/fig14.png)
 
+
+
 **From left to right are the comparison results of clothing simulation details using the physical method, the MGN method, and the DP-PINN model.**
 ![fig17](results/fig17.png)
----
-
-
-
-
