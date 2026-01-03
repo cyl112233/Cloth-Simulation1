@@ -28,12 +28,7 @@ This repository provides an implementation of a **dual-driven physics-informed n
 ![fig11](results/fig11.png)
 ![fig14](results/fig14.png)
 
-### Add images to the repo (run locally)
-```bash
-git add results/fig11.png results/fig14.png 
-git commit -m "add result images"
-git push
-```
+
 ---
 
  ## Install
