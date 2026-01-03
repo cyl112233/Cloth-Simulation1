@@ -31,7 +31,7 @@ This repository provides an implementation of a **dual-driven physics-informed n
 ![fig14](results/fig14.png)
 
 **From left to right are the comparison results of clothing simulation details using the physical method, the MGN method, and the DP-PINN model.**
-![fig15](results/fig15.png)
+![fig17](results/fig17.png)
 ---
 
  ## Installation
