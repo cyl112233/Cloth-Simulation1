@@ -30,13 +30,20 @@ To install the dependencies, run:
 ```bash
 pip install -r requirements.txt
 
-Simulation Results
+## Simulation Results
+
+![fig11](results/fig11.png)
+
+### Add images to the repo (run locally)
+```bash
+git add results/fig11.png
+git commit -m "add result images"
+git push
+
+![img](results/fig11.png)
 <img width="862" height="794" alt="fig16" src="https://github.com/user-attachments/assets/7841abee-9085-4c97-880c-79fb0be7cddd" />
 
 <img width="344" height="193" alt="fig8" src="https://github.com/user-attachments/assets/8246d245-0bac-4dfa-b588-957fdecad105" />
 
 
-git add results/fig11.png
-git commit -m "add image"
-git push
-![img](results/fig11.png)
+
