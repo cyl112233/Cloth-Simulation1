@@ -41,6 +41,28 @@ python main.py
 
 
 ## Simulation Results
+
+### Ablation Results of K-PINN Components
+
+| Method                         | Density Error (%) ↓ | Stretch Error (%) ↓ | Shear Error (%) ↓ |
+|--------------------------------|---------------------|---------------------|-------------------|
+| K-PINN (Full)                  | 1.2 ± 0.03          | 40 ± 23             | 47 ± 17           |
+| Fixed weights                  | 1.5 ± 0.1           | 45 ± 30             | 52 ± 20           |
+| Pure data-driven (w/o physical)| 10.1 ± 1.8          | 68 ± 45             | 72 ± 38           |
+
+
+### Ablation Results under Different Loss Settings
+
+| Model            | Avg. Positional Error (%) ↓ | Energy Conservation (%) ↑ | Material Parameter Error (%) ↓ |
+|------------------|-----------------------------|----------------------------|--------------------------------|
+| PINN (baseline)  | 4.72 ± 0.63                  | 68.2                       | 0.035                          |
+| +Constitutive    | 3.55 ± 0.41                  | 79.5                       | 0.045                          |
+| +Momentum        | 2.94 ± 0.37                  | 88.3                       | 0.042                          |
+| **K-PINN**       | **2.14 ± 0.31**              | **95.1**                   | **0.027**                      |
+
+
+
+
 **(2) Results of ablation experiment.**
 ![fig11](results/fig11.png)
 
