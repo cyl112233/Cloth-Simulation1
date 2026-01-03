@@ -1,12 +1,7 @@
 # Cloth-Simulation
 # Physics-Informed Neural Networks for High-Fidelity Dynamic Cloth Simulation: Parameter Estimation and Differentiable Simulation
 
-## Overview
-
 This repository provides an implementation of a **dual-driven physics-informed neural network (PINN)** framework for accurate dynamic cloth simulation. The approach integrates physical modeling with data-driven learning, achieving precise parameter estimation and high-fidelity simulations for cloth behavior. The framework consists of two key components:
-
-1. **K-PINN**: A parameter estimation model that predicts mechanical parameters (tensile stiffness, shear stiffness, bending stiffness) from a single cloth image by incorporating physical constraints.
-2. **DP-PINN**: A simulation framework that integrates a differentiable physics engine into the neural network, supporting dynamic cloth simulations with high physical consistency.
 
 ### Key Contributions:
 - **K-PINN**: Reduces density estimation error from 1.8% to 1.2% compared to existing methods.
@@ -35,10 +30,11 @@ This repository provides an implementation of a **dual-driven physics-informed n
 **Detail comparison of ribbed fabric simulation results using Physics-Based, MGN, and DPPINN methods from left to right.**
 ![fig14](results/fig14.png)
 
-
+**From left to right are the comparison results of clothing simulation details using the physical method, the MGN method, and the DP-PINN model.**
+![fig15](results/fig15.png)
 ---
 
- ## Install
+ ## Installation
 To install the dependencies, run:
 ```bash
 pip install -r requirements.txt
