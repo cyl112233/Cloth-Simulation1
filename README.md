@@ -29,7 +29,6 @@ pip install -r requirements.txt
 
 ```text
 ncs/train.py/
-```bash
 python main.py
 ```
 
