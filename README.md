@@ -18,6 +18,23 @@ This repository provides an implementation of a **dual-driven physics-informed n
 
 ---
 
+
+ ## Installation
+To install the dependencies, run:
+```bash
+pip install -r requirements.txt
+```
+## Training
+1. Find the path to the training script.
+
+```text
+ncs/train.py/
+```bash
+python main.py
+```
+
+
+
 ## training epochs
 **Stretch parameter prediction and error variation (left), shear parameter prediction and error variation (center), bend parameter prediction and error variation (right).**
 ![fig10](results/fig10.png)
@@ -34,9 +51,6 @@ This repository provides an implementation of a **dual-driven physics-informed n
 ![fig17](results/fig17.png)
 ---
 
- ## Installation
-To install the dependencies, run:
-```bash
-pip install -r requirements.txt
-```
+
+
 
