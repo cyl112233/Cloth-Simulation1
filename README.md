@@ -35,7 +35,7 @@ python main.py
 
 
 
-## training epochs
+## Training epochs
 **(1) Stretch parameter prediction and error variation (left), shear parameter prediction and error variation (center), bend parameter prediction and error variation (right).**
 ![fig10](results/fig10.png)
 
